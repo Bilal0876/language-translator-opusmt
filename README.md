@@ -7,7 +7,6 @@ and a simple web frontend for testing translations.
 
 ## Project Structure
 
-│
 ├── app.py # Main Flask application
 ├── language.csv # Dataset for language detection
 ├── templates/ # HTML frontend
