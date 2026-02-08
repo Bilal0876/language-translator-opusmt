@@ -10,7 +10,7 @@ and a simple web frontend for testing translations.
 ├── app.py # Main Flask application
 ├── language.csv # Dataset for language detection
 ├── templates/ index.html
-├──  README.md # Project description
+├──  README.md
 
 ## Installation
 
