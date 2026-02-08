@@ -20,7 +20,9 @@ and a simple web frontend for testing translations.
    cd language-translator-opusmt
 
 Run the app:
-python app.py
+      ```bash
+      
+         python app.py
 Open the browser at:
 http://127.0.0.1:5000/
 
